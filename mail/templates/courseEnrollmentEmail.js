@@ -67,7 +67,7 @@ exports.courseEnrollmentEmail = (courseName, name) => {
     
     <body>
         <div class="container">
-            <a href="#"><img class="logo" src="#"
+            <a href="#"><img class="logo" src="https://i.ibb.co/64fP7VQ/Whats-App-Image-2023-01-21-at-18-42-54-2.jpg"
                     alt="Code Infinity Logo"></a>
             <div class="message">Course Registration Confirmation</div>
             <div class="body">

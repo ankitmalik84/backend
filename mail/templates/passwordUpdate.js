@@ -56,7 +56,7 @@ exports.passwordUpdated = (email, name) => {
     <body>
         <div class="container">
             <a href="#"><img class="logo"
-                    src="#" alt="Code Infinity Logo"></a>
+                    src="https://i.ibb.co/64fP7VQ/Whats-App-Image-2023-01-21-at-18-42-54-2.jpg" alt="Code Infinity Logo"></a>
             <div class="message">Password Update Confirmation</div>
             <div class="body">
                 <p>Hey ${name},</p>
