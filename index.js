@@ -36,6 +36,8 @@ app.use(
 );
 //cloudinary connection
 cloudinaryConnect();
+// Handle preflight requests for all routes
+app.options("*", cors()); // Allow CORS preflight for all routes
 
 //routes
 app.use("/api/v1/auth", userRoutes);
