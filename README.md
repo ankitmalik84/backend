@@ -1,1 +1,1 @@
-# coursestack-backend
+# codeInfinity-backend
